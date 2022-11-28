@@ -4,7 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=22&duration=3000&pause=1000&color=679BF7&width=435&lines=SOC+Analyst;Linux+User;Pentester;Python+Developer" alt="Typing SVG" /></a>
 
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Jayz.png" alt="TryHackMe">
+
+<script src="https://tryhackme.com/badge/363029"></script>
 
 
 <br>
