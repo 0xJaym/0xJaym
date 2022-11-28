@@ -5,7 +5,7 @@
 
 <br>
 
-<script src="https://tryhackme.com/badge/363029"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jayz.png" alt="TryHackMe">
 
 
 <br>
